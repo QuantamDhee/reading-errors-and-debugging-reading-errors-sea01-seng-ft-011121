@@ -1,7 +1,3 @@
 "hello world"
 
-def greeting
-  puts "hello world"
-end
-
-greeting
+"hello world"
